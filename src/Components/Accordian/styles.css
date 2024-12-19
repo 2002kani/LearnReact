@@ -1,0 +1,42 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.accordian{
+    width: 500px;
+}
+
+.item{
+    margin-top: 20px;
+    background: #ededed;
+    border-radius: 10px;
+}
+
+.title{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.answer{
+    padding: 20px;
+}
+
+button{
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:active{
+    background: #f4f4f4;
+}
