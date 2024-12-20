@@ -7,7 +7,7 @@ function App() {
     <div className="App">
         {/* <Accordian/> */}
         {/* <RandomColor/> */}
-        <StarRating />
+        {/* <StarRating /> */}
     </div>
   );
 }
