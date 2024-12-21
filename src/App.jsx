@@ -9,7 +9,7 @@ function App() {
         {/* <RandomColor/> */}
         {/* <StarRating /> */}
     </div> 
-  );
+  ); 
 } 
 
 export default App
