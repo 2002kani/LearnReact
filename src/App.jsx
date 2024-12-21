@@ -10,6 +10,6 @@ function App() {
         {/* <StarRating /> */}
     </div>
   );
-}
+} 
 
 export default App
